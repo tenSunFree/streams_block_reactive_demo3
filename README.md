@@ -15,7 +15,7 @@ https://play.google.com/store/search?q=coupang&c=apps&hl=zh-TW
 預覽
 --------
 <p align="left">
-  <img src="https://i.imgur.com/84ecX8k.png" height="330"/>
+  <img src="https://i.imgur.com/jHg5SIY.png" height="330"/>
 </p> 
 
 備註
